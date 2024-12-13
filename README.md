@@ -12,7 +12,7 @@ I am a versatile Full Stack developer with expertise in PHP, Laravel, Vue.js, an
 * 🤝  I'm open to collaborating on Interesting Projects
 * ⚡  Crypto Enthusiast | Investor | E-commerce experience
 
-PS: All of my working repos are private. If you need more informations, contact me privately.
+PS: Most of my working repos are private. If you need more informations, contact me privately.
 
 ### Skills
 
