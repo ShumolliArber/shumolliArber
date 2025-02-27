@@ -5,7 +5,7 @@ My name is Arber Shumolli
 Full Stack Developer - PHP, Laravel & Vue
 -----------------------------------------
 
-I am a versatile Full Stack developer with expertise in PHP, Laravel, Vue.js, and MySQL. I excel in Test-Driven Development (TDD) and have a strong ability to quickly adapt to new technologies. My primary focus is on personal growth and staying up-to-date with the latest developments in the field. Additionally, I am proficient in Tailwind, HTML, CSS, JavaScript, Inertia.js, Bootstrap, Vuetify, Nuxt, GraphQL, and many more. My expertise extends to developing microservices architecture and leveraging Redis caching to optimize application performance. I am well- versed in Agile and SCRUM methodologies, and I thrive in collaborative team environments. I have a proven track record of working closely with Product Managers, Tech Leads, designers, and both frontend and backend engineers to deliver exceptional results.
+Innovative and versatile Full Stack engineer with expertise in PHP, Laravel, Vue.js, and MySQL. Proven track record in Test-Driven Development (TDD) and adept at adapting to new technologies. Skilled in Agile and SCRUM methodologies with a strong focus on personal growth and staying up-to-date withthe latest developments in the field. Experienced in microservices architecture and leveraging Redis to optimize application performance. A collaborative team player with exceptional communication and problem-solving skills.
 
 * 🌍  I'm based in Kosovo
 * ✉️  You can contact me at [arbershumolli@gmail.com](mailto:arbershumolli@gmail.com)
